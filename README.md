@@ -1,8 +1,6 @@
-### Olá, sou o Israel Covello 👋
+### Olá.. 👋
 
-- Atualmente estou em desenvolvimento me especializando em Back-end.
-- Estudando Python, Django.. Entre outras tecnologias que vem surgindo.
-- Procurando uma oportunidade para a primeria vaga como desenvolvedor.
+- Eu sou o Israel desenvolvedor python e esse é meu perfil.
 
 ##
 
