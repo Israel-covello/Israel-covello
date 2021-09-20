@@ -1,6 +1,6 @@
-### Olá.. 👋
+### Greetings..
 
-- Eu sou o Israel desenvolvedor python e esse é meu perfil.
+- I'm Israel, Developer back-end python under construction, and this is my profile.
 
 ##
 
